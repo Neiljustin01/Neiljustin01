@@ -8,6 +8,7 @@ Web developer from Leyte, Philippines. For about two years I have been building 
 
 | Project | What it is | Live |
 |---|---|---|
+| [Velociti's MotorParts System](https://github.com/Neiljustin01/velociti-motorparts-system) | Inventory, POS, service projects, worker payouts and profit reports for a motor parts and welding shop | [velociti.avenra.tech](https://velociti.avenra.tech) |
 | [CSO Hub & E-Marketplace](https://github.com/Neiljustin01/cso-hub-e-marketplace) | Directory of local civil society organizations with product reservations | [csoinopacan.avenra.tech](https://csoinopacan.avenra.tech) |
 | [Water Billing & Collection System](https://github.com/Neiljustin01/water-billing-system) | Consumers, meter readings, billing and payments for a town water service | [inopacanws.avenra.tech](https://inopacanws.avenra.tech) |
 | Budget Management & Monitoring System (IBMMS) | Budget tracking and reporting for a municipal budget office | [ibmms.avenra.tech](https://ibmms.avenra.tech) |
@@ -15,4 +16,4 @@ Web developer from Leyte, Philippines. For about two years I have been building 
 
 ## Tools
 
-PHP · MySQL · JavaScript · HTML5 · CSS3 · Bootstrap · Git and GitHub · Hostinger
+PHP · MySQL · JavaScript · HTML5 · CSS3 · Bootstrap · Chart.js · Git and GitHub · Hostinger
